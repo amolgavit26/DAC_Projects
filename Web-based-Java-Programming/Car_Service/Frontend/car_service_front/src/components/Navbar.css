@@ -1,0 +1,30 @@
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-left: 18px;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover,
+.dropdown-item:hover {
+  color: #00d4ff !important;
+}
+
+.btn-outline-light,
+.btn-primary {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+
+.navbar-brand img {
+  height: 80px; 
+  width: 35px;
+  vertical-align: middle;
+}
