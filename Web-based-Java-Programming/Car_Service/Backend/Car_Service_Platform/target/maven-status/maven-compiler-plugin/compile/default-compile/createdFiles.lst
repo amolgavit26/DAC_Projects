@@ -1,0 +1,14 @@
+com\carservice\car_service_platform\CarServicePlatformApplication.class
+com\carservice\entity\Role.class
+com\carservice\entity\User.class
+com\carservice\controller\WorkshopController.class
+com\carservice\entity\ServiceRequest.class
+com\carservice\entity\Workshop.class
+com\carservice\service\WorkshopServiceImpl.class
+com\carservice\service\ServiceRequestServiceImpl.class
+com\carservice\service\ServiceRequestService.class
+com\carservice\controller\ServiceRequestController.class
+com\carservice\dao\WorkshopRepository.class
+com\carservice\service\WorkshopService.class
+com\carservice\dao\ServiceRequestRepository.class
+com\carservice\security\JwtUtil.class
